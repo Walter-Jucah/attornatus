@@ -1,2 +1,6 @@
-package com.example.attomatus;public interface EnderecoRepository {
+package com.example.attomatus;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface EnderecoRepository extends JpaRepository<Endereco, Long> {
 }
