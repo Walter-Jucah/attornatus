@@ -1,4 +1,4 @@
-package com.example.attomatus;
+package com.example.attornatus;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

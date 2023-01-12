@@ -1,4 +1,4 @@
-package com.example.attomatus;
+package com.example.attornatus;
 import java.util.List;
 
 import jakarta.persistence.CascadeType;
